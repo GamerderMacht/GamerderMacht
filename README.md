@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @GamerderMacht | Douji
-- 👀 I’m interested in 3d Game Programming
-- 🌱 I’m currently learning Blender and Unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Discord. .douji#0
 
 <!---
